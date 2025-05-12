@@ -5,3 +5,4 @@ manda
 bobr kurwa
 mandise
 monad shit
+potomy chto gladiolys
