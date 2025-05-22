@@ -16,3 +16,4 @@ shit
 piu piu monad
 banane
 ufo
+optimism
