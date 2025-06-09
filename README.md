@@ -35,3 +35,4 @@ Guys
 dihlofos
 opensea
 ambrella
+scroll scam
