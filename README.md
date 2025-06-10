@@ -36,3 +36,4 @@ dihlofos
 opensea
 ambrella
 scroll scam
+secret
