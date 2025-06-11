@@ -37,3 +37,4 @@ opensea
 ambrella
 scroll scam
 secret
+EOS
