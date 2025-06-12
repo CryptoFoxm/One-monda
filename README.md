@@ -38,3 +38,4 @@ ambrella
 scroll scam
 secret
 EOS
+zero
