@@ -39,3 +39,4 @@ scroll scam
 secret
 EOS
 zero
+G native
