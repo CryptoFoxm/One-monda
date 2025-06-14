@@ -40,3 +40,4 @@ secret
 EOS
 zero
 G native
+OP OG GM GN 
