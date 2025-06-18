@@ -44,3 +44,5 @@ OP OG GM GN
 Ufologia
 On Off
 remove
+Chrom
+Cmo
