@@ -50,3 +50,4 @@ OG Bilder
 piston
 claim
 fisher one
+daily
