@@ -61,3 +61,4 @@ live
 swap
 pvp
 ufo
+deploy
