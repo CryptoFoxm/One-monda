@@ -62,3 +62,4 @@ swap
 pvp
 ufo
 deploy
+monad chmonad
