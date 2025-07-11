@@ -68,3 +68,4 @@ Fox Mulder
 stop
 naturel
 bobr
+kurwa
