@@ -70,3 +70,4 @@ naturel
 bobr
 kurwa
 WTF!1&!
+setting
