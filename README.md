@@ -72,3 +72,4 @@ kurwa
 WTF!1&!
 setting
 BTC new ATH!11!!11
+towns
