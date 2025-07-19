@@ -76,3 +76,4 @@ towns
 city
 maximus
 phantom
+ex sector
