@@ -78,3 +78,4 @@ maximus
 phantom
 ex sector
 smart
+digital
