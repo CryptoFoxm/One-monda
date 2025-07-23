@@ -79,3 +79,4 @@ phantom
 ex sector
 smart
 digital
+Manage 
